@@ -1,4 +1,5 @@
 STABLE DIFFUSION
+
 To create a pregenerative Model like Stable Diffusion to create images from textprompt using python.
 Stable Diffusion is a powerful deep learning model designed for generating images from text prompts. It operates on the principle of diffusion, which gradually transforms random noise into coherent images by reversing a diffusion process. Here's a brief overview:
 
